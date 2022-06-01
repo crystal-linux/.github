@@ -7,5 +7,5 @@
 <h2 align="center"> Crystal Linux </h2>
 </p>
 <p align="center">
-<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
+<img src="https://discordapp.com/api/guilds/825473796227858482/widget.png?style=shield"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW alt="Discord Shield"/>
 <p align="center"> A brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful. </p>
