@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/76RR4VC45V> </a>
-<img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Code of conduct"></img>
+<a href="https://github.com/crystal-linux/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Code of conduct"></img></a>
 <p align="center"> A brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful. </p>
 
 <p align="center"> All software, unless explicitly stated is licensed under the GPLv3.0 as stated in the organisation-wide <a href="https://github.com/crystal-linux/.github/blob/main/LICENSE">LICENSE</a> file.
