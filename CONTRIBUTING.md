@@ -28,6 +28,7 @@
 
 ### Good Practices
 
+- Make sure to annotate what each commit actually changes... `git diff` is your friend.
 - Try to use handle all errors if possible.
 - Never leave an unhandled exception in production code. If you have found a behaviour that runs an uncaught exception, catch the exception.
 - Never use `println!()` or the langauge's default print function/macro in production code. Using prettified string functions (e.g. info() in Amethyst v3.0.0) is
