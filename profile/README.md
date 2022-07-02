@@ -11,7 +11,7 @@
 <a href="https://github.com/crystal-linux/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Code of conduct"></img></a>
 <p align="center"> A brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful. </p>
 
-<h2> The Boring Stuff </h2>
+<h2 align="center"> ⬇⬇ The Boring, Yet Important Stuff ⬇⬇ </h2>
 
 <h3> Licensing: </h3>
 <p align="left"> All software, unless explicitly stated, is licensed under the GPLv3.0 license as stated in the organisation-wide <a href="https://github.com/crystal-linux/.github/blob/main/LICENSE">LICENSE</a> file.</p>
