@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/76RR4VC45V> </a>
 <a href="https://github.com/crystal-linux/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Code of conduct"></img></a>
+<a href="https://twitter.com/intent/user?screen_name=crystal_linux"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crystal_linux?style=flat?color=blue"></a>
 <p align="center"> A brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful. </p>
 
 <h2 align="center"> ⬇⬇ The Boring, Yet Important Stuff ⬇⬇ </h2>
