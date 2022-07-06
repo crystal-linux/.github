@@ -37,4 +37,4 @@ maintaining<br></h3>
 <ul>
 <li><a href="https://github.com/crystal-linux/iso">iso</a><br>
 <li><a href="https://github.com/crystal-linux/caveman">caveman</a>
-</ul>
+ <li><a href="https://github.com/crystal-linux/mlc-configs">mlc-configs</a>
