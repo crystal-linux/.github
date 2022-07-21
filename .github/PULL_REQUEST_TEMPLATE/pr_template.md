@@ -1,0 +1,19 @@
+---
+name: Pull Request
+about: Contribute directly to the project!
+title: "[PR] Describe your contribution in a few words!"
+labels:
+assignees: ''
+
+---
+
+#### Changes
+A clear and concise description of what you've changed in this PR
+
+#### Additional context
+Add any other context or screenshots about the PR here.
+
+#### Agreements
+Both of these must be checked before a PR is merged.
+- - [ ] I have read, and followed the terms described in [CONTRIBUTING.md](https://github.com/crystal-linux/.github/blob/main/CONTRIBUTING.md)
+- - [ ] I agree that these contributions are written in agreement to the [DCO](https://developercertificate.org/) and that I have read it's terms carefully
