@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Crystal Linux Discord
+    url: https://getcryst.al/discord
+    about: Suggestions and bugs can alternatively be reported here
+  - name: Crystal Linux Matrix
+    url: https://matrix.to/#/#crystal:tar.black
+    about: Suggestions and bugs can alternatively be reported here
