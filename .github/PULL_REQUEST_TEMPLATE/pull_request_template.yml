@@ -1,28 +1,20 @@
+---
 name: Pull Request
-description: Contribute directly to the project!
-title: "[PR]: "
-labels: 
-assignees:
-body:
-  - type: textarea
-    id: changes
-    attributes:
-      label: Changes
-      descriptions: A clear and concise description of what you've changed in this PR
-    validations:
-      required: true
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: Additional context
-      descriptions: Add any other context or screenshots about the PR here.
-    validations:
-      required: false
-  - type: checkboxes
-    id: terms
-    label: Contributions guidelines
-    options:
-      - label: I have read, and followed the terms described in [CONTRIBUTING.md](https://github.com/crystal-linux/.github/blob/main/CONTRIBUTING.md)
-        required: true
-      - label: I agree that these contributions are written in agreement to the [DCO](https://developercertificate.org/) and that I have read it's terms carefully
-        required: true
+about: Contribute directly to the project!
+title: "[PR] Describe your contribution in a few words!"
+labels:
+assignees: ''
+
+---
+
+#### Changes
+A clear and concise description of what you've changed in this PR
+
+#### Additional context
+Add any other context or screenshots about the PR here.
+
+#### Agreements
+Both of these must be checked before a PR is merged.
+- - [ ] I have read, and followed the terms described in [CONTRIBUTING.md](https://github.com/crystal-linux/.github/blob/main/CONTRIBUTING.md)
+- - [ ] I agree that these contributions are written in agreement to the [DCO](https://developercertificate.org/) and that I have read it's terms carefully
+
