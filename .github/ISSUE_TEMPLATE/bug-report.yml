@@ -2,7 +2,6 @@ name: Bug Report
 about: Create a report to help us improve and suash those bugs!
 title: "[BUG]: "
 labels: bug
-assignees: ''
 
 body:
   - type: textarea
