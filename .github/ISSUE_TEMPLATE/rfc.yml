@@ -1,5 +1,5 @@
 name: Request For Comment
-about: Request a change to a certain major portion of the project, or to a sub-porject
+description: Request a change to a certain major portion of the project, or to a sub-porject
 title: "[RFC]: "
 labels: rfs
 assignees:
