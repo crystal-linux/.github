@@ -1,0 +1,22 @@
+{
+    "Goal":
+    {
+        "Version": "22.11",
+        "Date": "November 11th",
+        "Features":
+        [
+            "Full implementation of the BTRFS file system",
+            "Automatic snapshots and rollbacks on package upgrade",
+            "Beautiful libadwaita design language",
+            "Fast and accessible CLI tools",
+            "Powerful in-house installer",
+            "A bright, supportive, and accepting community"
+        ]
+    },
+    "Future":
+    {
+        "Version": "23.05",
+        "Date": "TBD",
+        "Features":[]
+    }
+}
