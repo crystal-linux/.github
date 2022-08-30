@@ -1,5 +1,4 @@
-{
-    "Goal":
+[
     {
         "Version": "22.11",
         "Date": "November 11th",
@@ -13,10 +12,9 @@
             "A bright, supportive, and accepting community"
         ]
     },
-    "Future":
     {
         "Version": "23.05",
         "Date": "TBD",
         "Features":[]
     }
-}
+]
