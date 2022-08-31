@@ -26,6 +26,10 @@
 - 2 spaces per indent
 - Check derivations/flakes with `statix`, `nix-linter` and format with `nixfmt`
 
+### Git
+
+- Please don't leave `Merge ...` commits. They clutter up the git log.
+
 ### Good Practices
 
 - Make sure to annotate what each commit actually changes... `git diff` is your friend.
