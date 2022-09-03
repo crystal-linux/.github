@@ -29,6 +29,7 @@
 ### Git
 
 - Please don't leave `Merge ...` commits. They clutter up the git log.
+- All development is to take place on `main` from now on. Releases will be handled as versioned Git tags on `main` 
 
 ### Good Practices
 
