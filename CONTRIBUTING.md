@@ -13,6 +13,7 @@
 
 #### General
 - UNIX line endings (LF instead of CRLF)
+- Please keep variable names descriptive (e.g., `archive` vs `ar`)
 
 #### Rust
 - 4 spaces per indent
