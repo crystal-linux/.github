@@ -1,13 +1,10 @@
 # Crystal Linux General Contributing Guidelines
 
-### !! Always make sure to `git pull` before doing any work to avoid commit hell !!
-
 ### Pre-Commit Checks
 
 - Make sure to format AND lint your code before every commit push
-- Always make sure you're either on a `development` or a custom branch, never commit directly to main.
-  Main is a protected branch and should only be PRed against from development once the code is proven
-  to be stable
+- Always make sure you're on a custom branch, never commit directly to main (Most repositories have protections against doing this). 
+  Main is a protected branch and should only be PRed against from other branches once the code is proven to be stable
 
 ### Formatting
 
