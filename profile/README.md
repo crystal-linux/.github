@@ -25,3 +25,14 @@
 <h3> Contributing Guidelines: </h3>
 <p align="left"> Crystal Linux follows an organisation-wide set of contributing guidelines, as described in <a href="https://github.com/crystal-linux/.github/blob/main/CONTRIBUTING.md"><b>CONTRIBUTING.md</b></a></p>
 <p align="left"> The Crystal Linux Team also assumes that all contributions are written in agreeance to <a href="https://developercertificate.org"><b>The DCO (Developer Certificate of Origin)</b></a>. This is to ensure that the code you contribute is properly licensed, and to legally protect us in the case that someone contributes improperly licensed code.</p>
+
+<h3> Leadership: </h3>
+<ul>
+  <li>Python Team: https://github.com/axtloss</li>
+  <li>Packaging Team: https://github.com/somethinggeneric</li>
+  <li>Infrastructure Team: https://github.com/somethinggeneric</li>
+  <li>Web Team: https://github.com/kketg</li>
+  <li>Community Team: https://github.com/schmoolcool</li>
+  <li>Rust Team: https://github.com/not-my-segfault</li>
+  <li>Design Team: https://github.com/hericiumvevo</li>
+</ul>
