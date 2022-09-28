@@ -1,12 +1,15 @@
 name: Request For Comment
 description: Request a change to a certain major portion of the project, or to a sub-porject
 title: "[RFC]: "
-labels: rfs
+labels: rfc
 assignees:
   - SomethingGeneric
   - not-my-segfault
   - hericiumvevo
   - axtloss
+  - orowith2os
+  - kketg
+  - schmoolcool
 
 body:
   - type: input
