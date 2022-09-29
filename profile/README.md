@@ -26,6 +26,9 @@
 <p align="left"> Crystal Linux follows an organisation-wide set of contributing guidelines, as described in <a href="https://github.com/crystal-linux/.github/blob/main/CONTRIBUTING.md"><b>CONTRIBUTING.md</b></a></p>
 <p align="left"> The Crystal Linux Team also assumes that all contributions are written in agreeance to <a href="https://developercertificate.org"><b>The DCO (Developer Certificate of Origin)</b></a>. This is to ensure that the code you contribute is properly licensed, and to legally protect us in the case that someone contributes improperly licensed code.</p>
 
+<h3> Governance: </h3>
+<p align="left"> Crystal Linux follows a formal policy of internal Governance. This policy is available at <a href="https://github.com/crystal-linux/.github/blob/main/GOVERNANCE.md"><b>GOVERNANCE.md</b></a></p>
+
 <h3> Leadership: </h3>
 <ul>
   <li>Python Team: <a href="https://github.com/axtloss">axtloss</a></li>
