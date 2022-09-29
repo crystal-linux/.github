@@ -28,11 +28,11 @@
 
 <h3> Leadership: </h3>
 <ul>
-  <li>Python Team: https://github.com/axtloss</li>
-  <li>Distribution Team: https://github.com/somethinggeneric</li>
-  <li>Infrastructure Team: https://github.com/somethinggeneric</li>
-  <li>Web Team: https://github.com/kketg</li>
-  <li>Community Team: https://github.com/schmoolcool</li>
-  <li>Rust Team: https://github.com/not-my-segfault</li>
-  <li>Design Team: https://github.com/hericiumvevo</li>
+  <li>Python Team: <a href="https://github.com/axtloss">axtloss</a></li>
+  <li>Distribution Team: <a href="https://github.com/somethinggeneric">SomethingGeneric</a></li>
+  <li>Infrastructure Team: <a href="https://github.com/somethinggeneric">SomethingGeneric</a></li>
+  <li>Web Team: <a href="https://github.com/kketg">kketg</a></li>
+  <li>Community Team: <a href="https://github.com/schmoolcool">schmoolcool</a></li>
+  <li>Rust Team: <a href="https://github.com/not-my-segfault">not-my-segfault</a></li>
+  <li>Design Team: <a href="https://github.com/hericiumvevo">hericiumvevo</a></li>
 </ul>
