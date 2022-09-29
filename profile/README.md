@@ -29,7 +29,7 @@
 <h3> Leadership: </h3>
 <ul>
   <li>Python Team: https://github.com/axtloss</li>
-  <li>Packaging Team: https://github.com/somethinggeneric</li>
+  <li>Distribution Team: https://github.com/somethinggeneric</li>
   <li>Infrastructure Team: https://github.com/somethinggeneric</li>
   <li>Web Team: https://github.com/kketg</li>
   <li>Community Team: https://github.com/schmoolcool</li>
