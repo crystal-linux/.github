@@ -32,14 +32,14 @@
 **Example description**
 
 <p align="center"> 
-Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper.<br> 
-Made for Crystal, compatible with any Arch-based Linux distribution.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+ tempor incididunt ut labore et dolore magna aliqua. Purus in mollis nunc sed
 </p>
 
 ```
 <p align="center"> 
-Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper.<br> 
-Made for Crystal, compatible with any Arch-based Linux distribution.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>
+ tempor incididunt ut labore et dolore magna aliqua. Purus in mollis nunc sed
 </p>
 ```
 
@@ -57,7 +57,7 @@ Made for Crystal, compatible with any Arch-based Linux distribution.
 
 ```
 <p align="center">
-    <a href="https://github.com/crystal-linux/amethyst"><img src="https://github.com/crystal-linux/amethyst/actions/workflows/test.yml/badge.svg"></a>
+    <a href="https://github.com/crystal-linux/example"><img src="https://github.com/crystal-linux/example/actions/workflows/test.yml/badge.svg"></a>
 </p>
 ``` 
 
@@ -71,7 +71,7 @@ Made for Crystal, compatible with any Arch-based Linux distribution.
 
 ```
 <p align="center">
-    <a href="https://github/crystal-linux/amethyst"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/crystal-linux/amethyst?label=Open%20pull%20requests"></a><br>
+    <a href="https://github/crystal-linux/example"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/crystal-linux/example?label=Open%20pull%20requests"></a><br>
 <p align="center">
 ```
 
