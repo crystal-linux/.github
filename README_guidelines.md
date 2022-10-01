@@ -11,21 +11,25 @@
 
 # Titles
 
-### Badges should be centered using HTML tags.
+### Titles should be centered using HTML tags.
 
 <br>
 
-<h2 align="center"> Amethyst</h2>
+<h2 align="center"> Example title</h2>
 
 ```
-<h2 align="center"> Amethyst</h2>
+<h2 align="center"> Example title</h2>
 ```
 
 # Descriptions
 
-### Badges should be centered using HTML tags.
+### Descriptions should be centered using HTML tags.
+
+### **Descriptions should be the same as the project's description on GitHub.**
 
 <br>
+
+**Example description**
 
 <p align="center"> 
 Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper.<br> 
@@ -74,7 +78,7 @@ Made for Crystal, compatible with any Arch-based Linux distribution.
 ## Translation badge
 
 <p align="center">
-    <a href="https://github/crystal-linux/amethyst"><img alt="Translation badge" src="https://i18n.getcryst.al/widgets/crystal-linux/?component=amethyst?label=Translation"></a><br>
+    <a href="https://github/crystal-linux/amethyst"><img alt="Translation badge" src="https://i18n.getcryst.al/widgets/crystal-linux/-/svg-badge.svg?label=Translation"></a><br>
 <p align="center">
 
 
@@ -92,6 +96,15 @@ Made for Crystal, compatible with any Arch-based Linux distribution.
 ```
 <p align="center">
     <a href="https://twitter.com/crystal_linux"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crystal_linux?style=flat&logo=twitter&color=1DA1F2&label=Follow%20@Crystal_Linux
+</p>
+```
+<p align="center">
+    <a href="https://discord.gg/hYJgu8K5aA"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?logo=Discord&logoColor=white&color=5865f2&label=Join our Discord"> </a>
+</p>
+
+```
+<p align="center">
+    <a href="https://discord.gg/hYJgu8K5aA"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"> </a>
 </p>
 ```
 
