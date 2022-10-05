@@ -34,7 +34,7 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  professional setting <sup>[such as...](#addendum)</sup>
 
 ## Enforcement Responsibilities
 
@@ -126,3 +126,16 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+**Note**: The following "Addendum" section and the `such as...` superscript 
+on the last line of the [Our Standards](#our-standards) section are specific to, and were added by, 
+the Crystal Linux Core Team to better and more effectively suit the Crystal Linux community.
+
+## Addendum
+
+Actions that could be seen as "inappropriate in a professional setting" explicitly include the following:
+
+**Mention and/or Discussion of, as well as subjects relating to**:
+- Drugs / Drug Use
+- Politics
+- Piracy
