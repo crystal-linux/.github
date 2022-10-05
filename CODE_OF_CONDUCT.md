@@ -33,6 +33,8 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Any discussion of topics involving illegal substances
+* Any and all discussion of piracy, or other illegal online activity
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -78,7 +80,7 @@ unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+behavior was inappropriate.
 
 ### 2. Warning
 
