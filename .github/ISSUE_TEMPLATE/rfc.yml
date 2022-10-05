@@ -1,15 +1,9 @@
 name: Request For Comment
-description: Request a change to a certain major portion of the project, or to a sub-porject
+description: Request a change to a certain major portion of the project, or to a sub-project
 title: "[RFC]: "
 labels: rfc
 assignees:
-  - SomethingGeneric
-  - not-my-segfault
-  - hericiumvevo
-  - axtloss
-  - orowith2os
-  - kketg
-  - schmoolcool
+  - crystal-linux/core-team
 
 body:
   - type: input
@@ -29,7 +23,7 @@ body:
     id: summary
     attributes:
       label: Short summary
-      description: A short summary or what you'd like to be changed/improved
+      description: A short summary or what you'd like to see changed/improved
     validations:
       required: true
   - type: textarea
@@ -66,4 +60,4 @@ body:
       label: Unanswered questions
       description: Is there anything that oculd change another part of this RFC, and if so, who might be able to answer them for you?
     validations:
-      required: true
+      required: false
