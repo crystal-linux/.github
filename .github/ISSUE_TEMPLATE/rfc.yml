@@ -3,7 +3,16 @@ description: Request a change to a certain major portion of the project, or to a
 title: "[RFC]: "
 labels: rfc
 assignees:
-  - crystal-linux/core-team
+  - SomethingGeneric
+  - not-my-segfault
+  - not-my-segfault
+  - hericiumvevo
+  - hericiumvevo
+  - axtloss
+  - axtloss
+  - orowith2os
+  - kketg
+  - schmoolcool
 
 body:
   - type: input
