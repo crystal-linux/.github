@@ -17,6 +17,12 @@ In order of descending power:
 
 > See [core_team.md](governance/CORE_TEAM.md)
 
+- **Trusted Contributor**:
+
+  A trusted individual who has made multiple contributions to the project (not including financial support).
+
+> See [trusted_contributor.md](governance/TRUSTED_CONTRIBUTOR.md)
+
 - **Team Lead**:
 
   Coordinates a specific team and/or focus on the Project. (e.g., the Web Team Lead would manage progress on the website)

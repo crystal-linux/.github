@@ -2,7 +2,7 @@
 
 ## Powers
 
-* Vote on RFCs (minor vote, unless a consensus agrees)
+Same as [Trusted Contributor](TRUSTED_CONTRIBUTOR.md), plus:
 * Vote to appoint/remove Team Leads (minor vote)
 * Vote to appoint/remove Project Lead (major vote)
 
