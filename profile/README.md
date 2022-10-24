@@ -36,6 +36,6 @@
   <li>Infrastructure Team: <a href="https://github.com/somethinggeneric">SomethingGeneric</a></li>
   <li>Web Team: <a href="https://github.com/kketg">kketg</a></li>
   <li>Community Team: <a href="https://github.com/schmoolcool">schmoolcool</a></li>
-  <li>Rust Team: <a href="https://github.com/not-my-segfault">not-my-segfault</a></li>
+  <li>Rust Team: <a href="https://github.com/trivernis">Trivernis</a></li>
   <li>Design Team: <a href="https://github.com/hericiumvevo">hericiumvevo</a></li>
 </ul>
