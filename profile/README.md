@@ -16,6 +16,9 @@
 
 <h2 align="center"> ⬇⬇ The Boring, Yet Important Stuff ⬇⬇ </h2>
 
+## THIS PROJECT HAS BEEN MIGRATED TO GITLAB
+Please make any PRs here, rather than to the GitHub: https://git.getcryst.al/crystal
+
 <h3> Licensing: </h3>
 <p align="left"> All software, unless explicitly stated, is licensed under the GPLv3.0 license as stated in the organisation-wide <a href="https://github.com/crystal-linux/.github/blob/main/LICENSE">LICENSE</a> file.</p>
 
