@@ -1,3 +1,10 @@
+
+# **THIS PROJECT HAS BEEN MIGRATED TO GITLAB**
+Please make any PRs here, rather than to the GitHub: https://git.getcryst.al/crystal
+
+# REPOSITORIES HERE ARE **OUTDATED**, GO TO THE LINK  BELOW
+# ---- > https://git.getcryst.al/crystal < ----
+
 <p align="center">
   <a href="https://github.com/crystal-linux">
     <img src="https://avatars.githubusercontent.com/u/81515095?s=200&v=4" alt="Logo" width="150" height="150">
@@ -15,9 +22,6 @@
 <p align="center"> A brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful. </p>
 
 <h2 align="center"> ⬇⬇ The Boring, Yet Important Stuff ⬇⬇ </h2>
-
-## THIS PROJECT HAS BEEN MIGRATED TO GITLAB
-Please make any PRs here, rather than to the GitHub: https://git.getcryst.al/crystal
 
 <h3> Licensing: </h3>
 <p align="left"> All software, unless explicitly stated, is licensed under the GPLv3.0 license as stated in the organisation-wide <a href="https://github.com/crystal-linux/.github/blob/main/LICENSE">LICENSE</a> file.</p>
