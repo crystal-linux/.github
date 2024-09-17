@@ -36,13 +36,3 @@ Please make any PRs here, rather than to the GitHub: https://gitlab.com/crystal-
 <h3> Governance: </h3>
 <p align="left"> Crystal Linux follows a formal policy of internal Governance. This policy is available at <a href="https://github.com/crystal-linux/.github/blob/main/GOVERNANCE.md"><b>GOVERNANCE.md</b></a></p>
 
-<h3> Leadership: </h3>
-<ul>
-  <li>Python Team: <a href="https://github.com/axtloss">axtloss</a></li>
-  <li>Distribution Team: <a href="https://github.com/somethinggeneric">SomethingGeneric</a></li>
-  <li>Infrastructure Team: <a href="https://github.com/somethinggeneric">SomethingGeneric</a></li>
-  <li>Web Team: <a href="https://github.com/kketg">kketg</a></li>
-  <li>Community Team: <a href="https://github.com/schmoolcool">schmoolcool</a></li>
-  <li>Rust Team: <a href="https://github.com/trivernis">Trivernis</a></li>
-  <li>Design Team: <a href="https://github.com/hericiumvevo">hericiumvevo</a></li>
-</ul>
